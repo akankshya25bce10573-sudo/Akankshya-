@@ -1,4 +1,6 @@
 Project Title:Online Banking Management System
+
+
 Overwiew of the Project:The Online Banking System is a console-based or simple web-based application focused on implementing the core ledger transactions of a bank. This project provides a basic but functional model for managing customer accounts, including essential operations like creating accounts, handling cash deposits and withdrawals, and checking account status
 Features:
 This project implements the following fundamental banking operations:
